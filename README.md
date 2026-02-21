@@ -92,6 +92,7 @@ I'm actively looking for **DevOps Engineer** or **Cloud Infrastructure Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijan_Mosavat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijan-mosavat)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bijan.mosavat@gmail.com)
+`bijan.mosavat@gmail.com`
 
 ---
 
