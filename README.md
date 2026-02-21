@@ -90,7 +90,7 @@ That experience means I understand the *real* infrastructure layer that cloud ab
 
 I'm actively looking for **DevOps Engineer** or **Cloud Infrastructure Engineer** roles in Sweden.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijan_Mosavat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bijan-mosava)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijan_Mosavat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijan-mosavat)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bijan.mosavat@gmail.com)
 
 ---
