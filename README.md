@@ -12,9 +12,8 @@
 ## 🧭 What I Do
 
 ```text
+AWS · Terraform · Kubernetes · Docker · GitHub Actions · Ansible · 
 HP 3PAR · XtremIO · EMC PowerStore · Brocade SAN · VMware vSphere · Veeam · Data Domain
-                            
-AWS · Terraform · Kubernetes · Docker · GitHub Actions · Ansible · Bash
 ```
 
 > Infrastructure & Storage Architect and DevOps Engineer with 15+ years in mission-critical
