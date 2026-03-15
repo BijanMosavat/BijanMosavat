@@ -2,8 +2,8 @@
 
 # Bijan Mosavat
 
-### Infrastructure Engineer → DevOps & Cloud Engineer
-#### 📍 Sweden &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes
+### Infrastructure & Storage Architect · DevOps & Cloud Engineer
+#### 📍 Helsingborg, Sweden &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; VMware &nbsp;|&nbsp; SAN
 
 </div>
 
@@ -12,25 +12,25 @@
 ## 🧭 What I Do
 
 ```text
-Linux · Windows Server · VMware vSphere · SAN Storage · SAN Switches · Bare Metal · Active Directory
-         ↓  now adding  ↓
-AWS · Terraform · Docker · Kubernetes · GitHub Actions · Bash · Python
+HP 3PAR · XtremIO · EMC PowerStore · Brocade SAN · VMware vSphere · Veeam · Data Domain
+                            +
+AWS · Terraform · Kubernetes · Docker · GitHub Actions · Ansible · Bash
 ```
 
-> Sysadmin with enterprise infrastructure experience transitioning into DevOps & Cloud Engineering.
-> I work with real tools, build production-grade projects, and document everything properly.
+> Infrastructure & Storage Architect and DevOps Engineer with 15+ years in mission-critical
+> banking and national payment systems. I build for 99.99% uptime — on-prem and in the cloud.
 
 ---
 
 ## 👤 About Me
 
-I've spent years managing enterprise infrastructure hands-on — provisioning bare metal servers, administering VMware vSphere clusters, configuring SAN storage and SAN switches, and running Linux and Windows Server environments with Active Directory at the core.
+I've spent 15+ years operating enterprise infrastructure at national scale — SAN fabrics, VMware clusters, backup and DR systems, and Linux/Windows environments in banking and payment platforms under strict PCI DSS and ISO 27001 requirements.
 
-Now I'm making a focused transition into **DevOps and Cloud Engineering on AWS** — not by abandoning that foundation, but by building on top of it. I understand the real infrastructure layer that cloud abstracts: networking, storage, compute, and what happens when things break at 2am.
+I also build production-grade cloud and DevOps infrastructure: provisioning AWS environments with Terraform, containerising workloads with Docker and Kubernetes, and automating everything with Ansible and GitHub Actions.
 
-My approach: build real projects, not toy examples. Write infrastructure as code. Automate everything. Document it like someone else needs to maintain it — because they will.
+My approach: real tools, real projects, documented like someone else needs to maintain it — because they will.
 
-**Currently focused on:** AWS · Terraform · Docker · Kubernetes · CI/CD pipelines
+**What I work with:** HP 3PAR · XtremIO · EMC PowerStore · Brocade DCX/SN6000 · Veeam · Data Domain · VMware vSphere · Kubernetes · AWS · Terraform · Ansible · Prometheus/Grafana · ELK
 
 ---
 
@@ -38,46 +38,46 @@ My approach: build real projects, not toy examples. Write infrastructure as code
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 [Bash Automation Toolkit](https://github.com/bijanmosavat/bash-toolkit) | Production sysadmin scripts — health checks, backups, log rotation, user provisioning | `Bash` `Linux` |
-| 🐳 [Containerized App](https://github.com/bijanmosavat/docker-app) | Flask app containerized with Docker + Compose, PostgreSQL backend | `Docker` `Python` `Flask` |
-| ☁️ [AWS Infrastructure with Terraform](https://github.com/bijanmosavat/aws-terraform-infra) | VPC, EC2, ASG, ALB, S3 remote state — production-ready AWS setup | `Terraform` `AWS` `IaC` |
-| ⚙️ [CI/CD Pipeline](https://github.com/bijanmosavat/cicd-pipeline) | GitHub Actions pipeline: lint → test → build Docker image → push to registry | `GitHub Actions` `Docker` `CI/CD` |
+| ☁️ [AWS Infrastructure with Terraform](https://github.com/BijanMosavat/aws-terraform-infra) | VPC, EC2, ASG, ALB, EKS, S3 remote state — production-ready AWS setup with Terraform modules | `Terraform` `AWS` `IaC` |
+| ⚙️ [CI/CD Pipeline](https://github.com/BijanMosavat/cicd-pipeline) | GitHub Actions pipeline: lint → test → build Docker image → push to registry | `GitHub Actions` `Docker` `CI/CD` |
+| 🐳 [Containerized App](https://github.com/BijanMosavat/docker-app) | Flask app containerized with Docker + Compose, PostgreSQL backend | `Docker` `Python` `Flask` |
+| 🔧 [Bash Automation Toolkit](https://github.com/BijanMosavat/bash-toolkit) | Production sysadmin scripts — health checks, backups, log rotation, user provisioning | `Bash` `Linux` |
+| 🏗️ [Terraform Modules](https://github.com/BijanMosavat/Terraform) | Modular, reusable Terraform configurations for cloud infrastructure components | `Terraform` `HCL` |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Infrastructure & Virtualization** — where I come from:
+**Storage & Infrastructure:**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white">
-</picture>
-
+![HP 3PAR](https://img.shields.io/badge/HP_3PAR-0096D6?style=flat-square&logo=hp&logoColor=white)
+![EMC PowerStore](https://img.shields.io/badge/EMC_PowerStore-6B21A8?style=flat-square&logo=dell&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
+![SAN Storage](https://img.shields.io/badge/SAN_Storage-7C3AED?style=flat-square&logo=databricks&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
-![SAN Storage](https://img.shields.io/badge/SAN_Storage-6B21A8?style=flat-square&logo=databricks&logoColor=white)
-![SAN Switches](https://img.shields.io/badge/SAN_Switches-7C3AED?style=flat-square&logo=cisco&logoColor=white)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-374151?style=flat-square&logo=intel&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 
-**DevOps & Cloud** — where I'm going:
+**DevOps & Cloud:**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ## 💡 My Edge
 
-Most people learning DevOps have never racked a server, configured a SAN fabric, or been on-call for a failing vSphere cluster at 2am. I have.
+Most people working in DevOps and cloud have never racked a server, configured a SAN fabric, or been on-call for a failing vSphere cluster at 2am. I have — for 15 years, in banking systems that process millions of transactions daily.
 
-That experience means I understand the *real* infrastructure layer that cloud abstracts away — and I know what production actually looks like. I bring that operational mindset to everything I build.
+That means I understand both layers: the real infrastructure beneath the cloud abstraction, and the automation and tooling that makes it scale. I don't just deploy to AWS — I understand what the compute, storage, and network are actually doing underneath.
 
 ---
 
@@ -86,15 +86,15 @@ That experience means I understand the *real* infrastructure layer that cloud ab
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bijanmosavat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bijanmosavat&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijanmosavat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Bijan's GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BijanMosavat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BijanMosavat&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=BijanMosavat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Bijan's GitHub Stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijanmosavat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijanmosavat&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijanmosavat&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BijanMosavat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BijanMosavat&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijanMosavat&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </picture>
 
 </div>
@@ -103,16 +103,17 @@ That experience means I understand the *real* infrastructure layer that cloud ab
 
 ## 📬 Let's Connect
 
-I'm actively looking for **DevOps Engineer** or **Cloud Infrastructure Engineer** roles in Sweden.
+I'm open to **Infrastructure Architect**, **Storage Engineer**, **Platform Engineer**, **SRE**, or **DevOps Engineer** roles in Sweden.
 
 | | |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/bijanmosavat](https://linkedin.com/in/bijanmosavat) |
+| 💼 **LinkedIn** | [linkedin.com/in/bijan-mosavat](https://linkedin.com/in/bijan-mosavat) |
+| 🌐 **Portfolio** | [bijanmosavat.github.io](https://bijanmosavat.github.io) |
 | 📧 **Email** | [bijan.mosavat@gmail.com](mailto:bijan.mosavat@gmail.com) |
-| 📍 **Location** | Sweden — open to hybrid & remote |
+| 📍 **Location** | Helsingborg, Sweden — open to hybrid & remote, open to relocation |
 
 ---
 
 <div align="center">
-<sub>Building in public. One commit at a time. 🚀</sub>
+<sub>✅ Valid Swedish Work Permit &nbsp;·&nbsp; Available Immediately &nbsp;·&nbsp; Building in public. One commit at a time. 🚀</sub>
 </div>
