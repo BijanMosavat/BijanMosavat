@@ -23,13 +23,13 @@ HP 3PAR · XtremIO · EMC PowerStore · Brocade SAN · VMware vSphere · Veeam �
 
 ## 👤 About Me
 
-I've spent 15+ years operating enterprise infrastructure at national scale — SAN fabrics, VMware clusters, backup and DR systems, and Linux/Windows environments in banking and payment platforms under strict PCI DSS and ISO 27001 requirements.
+I build production-grade cloud and platform infrastructure — provisioning AWS environments with Terraform, containerising workloads with Docker and Kubernetes, and automating everything with Ansible and GitHub Actions.
 
-I also build production-grade cloud and DevOps infrastructure: provisioning AWS environments with Terraform, containerising workloads with Docker and Kubernetes, and automating everything with Ansible and GitHub Actions.
+That work is grounded in 15+ years operating enterprise infrastructure at national scale — SAN fabrics, VMware clusters, backup and DR systems, and Linux/Windows environments in banking and payment platforms under strict PCI DSS and ISO 27001 requirements.
 
 My approach: real tools, real projects, documented like someone else needs to maintain it — because they will.
 
-**What I work with:** HP 3PAR · XtremIO · EMC PowerStore · Brocade DCX/SN6000 · Veeam · Data Domain · VMware vSphere · Kubernetes · AWS · Terraform · Ansible · Prometheus/Grafana · ELK
+What I work with: AWS · Terraform · Ansible · VMware vSphere · HP 3PAR · XtremIO · EMC PowerStore · Brocade DCX/SN6000 · Veeam · Data Domain · Prometheus/Grafana
 
 ---
 
