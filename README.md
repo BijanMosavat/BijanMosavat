@@ -2,7 +2,7 @@
 
 # Bijan Mosavat
 
-### Infrastructure & Storage Architect · DevOps & Cloud Engineer
+####     DevOps & Cloud Engineer . Infrastructure & Storage Architect 
 #### 📍 Helsingborg, Sweden &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; VMware &nbsp;|&nbsp; SAN
 
 </div>
