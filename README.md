@@ -13,7 +13,7 @@
 
 ```text
 HP 3PAR · XtremIO · EMC PowerStore · Brocade SAN · VMware vSphere · Veeam · Data Domain
-                            +
+                            
 AWS · Terraform · Kubernetes · Docker · GitHub Actions · Ansible · Bash
 ```
 
@@ -42,8 +42,6 @@ My approach: real tools, real projects, documented like someone else needs to ma
 | ⚙️ [CI/CD Pipeline](https://github.com/BijanMosavat/cicd-pipeline) | GitHub Actions pipeline: lint → test → build Docker image → push to registry | `GitHub Actions` `Docker` `CI/CD` |
 | 🐳 [Containerized App](https://github.com/BijanMosavat/docker-app) | Flask app containerized with Docker + Compose, PostgreSQL backend | `Docker` `Python` `Flask` |
 | 🔧 [Bash Automation Toolkit](https://github.com/BijanMosavat/bash-toolkit) | Production sysadmin scripts — health checks, backups, log rotation, user provisioning | `Bash` `Linux` |
-| 🏗️ [Terraform Modules](https://github.com/BijanMosavat/Terraform) | Modular, reusable Terraform configurations for cloud infrastructure components | `Terraform` `HCL` |
-
 ---
 
 ## 🛠️ Tech Stack
