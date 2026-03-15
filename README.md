@@ -45,17 +45,6 @@ My approach: real tools, real projects, documented like someone else needs to ma
 
 ## 🛠️ Tech Stack
 
-**Storage & Infrastructure:**
-
-![HP 3PAR](https://img.shields.io/badge/HP_3PAR-0096D6?style=flat-square&logo=hp&logoColor=white)
-![EMC PowerStore](https://img.shields.io/badge/EMC_PowerStore-6B21A8?style=flat-square&logo=dell&logoColor=white)
-![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
-![SAN Storage](https://img.shields.io/badge/SAN_Storage-7C3AED?style=flat-square&logo=databricks&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
-
 **DevOps & Cloud:**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
@@ -68,6 +57,16 @@ My approach: real tools, real projects, documented like someone else needs to ma
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+**Storage & Infrastructure:**
+
+![HP 3PAR](https://img.shields.io/badge/HP_3PAR-0096D6?style=flat-square&logo=hp&logoColor=white)
+![EMC PowerStore](https://img.shields.io/badge/EMC_PowerStore-6B21A8?style=flat-square&logo=dell&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
+![SAN Storage](https://img.shields.io/badge/SAN_Storage-7C3AED?style=flat-square&logo=databricks&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 ---
 
 ## 💡 My Edge
